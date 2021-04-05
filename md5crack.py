@@ -11,8 +11,8 @@ print('''
   
 	''')
 
-lista=input("wordlist: ")
-hash2crack=input("hash: ")
+lista=input("wordlist: ")##WORDLIST
+hash2crack=input("hash: ")##HASH
 
 linhasDeLista=open(lista, "r").readlines()
 
